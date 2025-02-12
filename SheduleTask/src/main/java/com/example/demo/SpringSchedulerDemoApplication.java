@@ -10,6 +10,7 @@ public class SpringSchedulerDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSchedulerDemoApplication.class, args);
+		System.out.println("test1");
 	}
 
 }
